@@ -1,0 +1,19 @@
+# Files
+*.log
+.DS_Store
+*.map
+*.private.*
+
+# Folders
+tmp/
+node_modules/
+bower_components/
+coverage
+
+# IntelliJ
+.idea/
+*.iml
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
